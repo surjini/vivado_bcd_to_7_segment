@@ -1,6 +1,6 @@
 ## vivado_bcd_to_7_segment
-## REG NUM :
-## NAME :
+## REG NUM :25015534
+## NAME :Surjini.R
 ## EXPERIMENT – 2  Design and Implementation of BCD to 7-Segment Display Decoder
 
 ## AIM
@@ -98,6 +98,8 @@ Program Boolean Board
 Input BCD using switches → observe number on display
 
 ## OUTPUT 
+<img width="1919" height="1083" alt="Screenshot 2025-12-18 105850" src="https://github.com/user-attachments/assets/0de4c8d6-2947-42dd-be42-8e02bb69693e" />
+
 
 ## RESULT
 The BCD to 7-segment decoder is successfully designed and implemented.
