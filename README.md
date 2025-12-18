@@ -98,7 +98,7 @@ Program Boolean Board
 Input BCD using switches → observe number on display
 
 ## OUTPUT 
-<img width="1919" height="1083" alt="Screenshot 2025-12-18 105850" src="https://github.com/user-attachments/assets/0de4c8d6-2947-42dd-be42-8e02bb69693e" />
+<img width="1919" height="1083" alt="Screenshot 2025-12-18 105850" src="https://github.com/user-attachments/assets/ebabaab9-c884-4b1d-b3ab-fd8151952cde" />
 
 
 ## RESULT
